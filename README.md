@@ -76,7 +76,7 @@ Raw Satellite Image (GeoTIFF)
 ```
 
 ### Training Pipeline
-1. **Data Ingestion** — EuroSAT + IndiaSAT imagery loaded and validated
+1. **Data Ingestion** — EuroSAT imagery loaded and validated
 2. **Preprocessing** — Normalization, augmentation (flips, rotations, spectral jitter)
 3. **CNN Training** — Multi-class classification with cross-entropy loss
 4. **Evaluation** — Per-class accuracy, F1, precision, recall on held-out test set
