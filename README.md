@@ -90,8 +90,6 @@ Raw Satellite Image (GeoTIFF)
 | Dataset | Images | Coverage | Bands |
 |---------|--------|----------|-------|
 | **EuroSAT** | ~27,000 | Europe (Sentinel-2) | 13 spectral bands |
-| **IndiaSAT** | ~480,000 | Indian subcontinent | RGB + NIR |
-| **Combined** | **500,000+** | Multi-regional | Multi-spectral |
 
 Both datasets span diverse biomes, seasons, and resolutions — making the model robust to geographic and atmospheric variation.
 
