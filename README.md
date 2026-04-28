@@ -26,7 +26,7 @@
 ## 🛰️ Overview
 
 **TerraVia** is an end-to-end machine learning platform for satellite imagery analysis. Upload a `.tif` satellite image and get instant AI-powered insights — land use classification across 8+ categories and a real-time vegetation health index — all through a sleek, browser-based interface backed by a deployed deep learning model.
-
+https://github.com/Samarthsawant/land-classification-and-vegetation-health/releases/download/v1/terravia_v2.html
 > Manual land analysis used to take weeks. TerraVia does it in under 3 seconds.
 
 ---
@@ -131,12 +131,11 @@ Visit the deployed TerraVia interface, upload any `.tif` satellite image, and ge
 ### Run Locally
 
 ```bash
-# Clone the repo
-git clone https://github.com/yourusername/terravia.git
-cd terravia
+# follow the download link
+https://github.com/Samarthsawant/land-classification-and-vegetation-health/releases/download/v1/terravia_v2.html
 
-# Open the frontend (no build step needed)
-open terravia_v3.html
+# Open the frontend
+open terravia_v2.html
 ```
 
 ### Backend (Hugging Face Space)
@@ -169,9 +168,8 @@ print(response.json())
 ## 🗂️ Project Structure
 
 ```
-terravia/
-├── terravia_v3.html       # Frontend — full single-file app
-├── terravia_v2.html       # Previous iteration (archived)
+terravia/     
+├── terravia_v2.html       # Frontend — full single-file app
 ├── model/
 │   ├── train.py           # Training script
 │   ├── evaluate.py        # Evaluation & metrics
@@ -193,7 +191,7 @@ terravia/
 | TIFF Rendering | Custom pure-JS parser (8/16-bit, RGB/grayscale) |
 | ML Framework | PyTorch / TensorFlow |
 | Model Serving | Hugging Face Spaces (FastAPI) |
-| Datasets | EuroSAT, IndiaSAT |
+| Datasets | EuroSAT |
 
 ---
 
@@ -214,12 +212,6 @@ terravia/
 | **BT23ECE003** | Frontend Development, Backend Deployment, UI/UX |
 
 *Machine Learning Course Project — ECE Department*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. Datasets (EuroSAT, IndiaSAT) are subject to their respective original licenses.
 
 ---
 
