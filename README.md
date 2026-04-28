@@ -15,7 +15,6 @@
 [![F1 Score](https://img.shields.io/badge/F1%20Score-94.8%25-green?style=for-the-badge)](/)
 [![Dataset](https://img.shields.io/badge/Training%20Images-27K%2B-blue?style=for-the-badge)](/)
 [![Classes](https://img.shields.io/badge/Land%20Classes-8%2B-orange?style=for-the-badge)](/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](/)
 
 *BT23ECE001 · BT23ECE003 — Machine Learning Course Project*
 
