@@ -90,7 +90,7 @@ Raw Satellite Image (GeoTIFF)
 |---------|--------|----------|-------|
 | **EuroSAT** | ~27,000 | Europe (Sentinel-2) | 13 spectral bands |
 
-Both datasets span diverse biomes, seasons, and resolutions — making the model robust to geographic and atmospheric variation.
+Dataset spans diverse biomes, seasons, and resolutions — making the model robust to geographic and atmospheric variation.
 
 ---
 
