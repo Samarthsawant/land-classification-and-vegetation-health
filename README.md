@@ -13,7 +13,7 @@
 
 [![Model Accuracy](https://img.shields.io/badge/Accuracy-96.2%25-brightgreen?style=for-the-badge)](/)
 [![F1 Score](https://img.shields.io/badge/F1%20Score-94.8%25-green?style=for-the-badge)](/)
-[![Dataset](https://img.shields.io/badge/Training%20Images-500K%2B-blue?style=for-the-badge)](/)
+[![Dataset](https://img.shields.io/badge/Training%20Images-27K%2B-blue?style=for-the-badge)](/)
 [![Classes](https://img.shields.io/badge/Land%20Classes-8%2B-orange?style=for-the-badge)](/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](/)
 
@@ -46,7 +46,7 @@ Remote sensing and land monitoring are critical for climate science, agriculture
 
 ## ✨ Features
 
-- 🗺️ **Land Use Classification** — Classifies satellite imagery into 8+ land cover categories (Forest, Urban, Water, Agriculture, Barren, Shrubland, Wetland, Snow/Ice)
+- 🗺️ **Land Use Classification** — Classifies satellite imagery into 8+ land cover categories 
 - 🌿 **Vegetation Health Index** — Real-time NDVI-proxy score with stress classification (Healthy / Moderate Stress / High Stress)
 - 📊 **Spectral Breakdown** — Top-3 class probability scores for every prediction
 - 🖼️ **Native TIFF Rendering** — Custom pure-JS TIFF parser with contrast stretching for 8-bit and 16-bit satellite imagery — no plugins needed
