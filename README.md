@@ -16,7 +16,7 @@
 [![Dataset](https://img.shields.io/badge/Training%20Images-27K%2B-blue?style=for-the-badge)](/)
 [![Classes](https://img.shields.io/badge/Land%20Classes-8%2B-orange?style=for-the-badge)](/)
 
-*BT23ECE001 · BT23ECE003 — Machine Learning Course Project*
+*Machine Learning Course Project*
 
 </div>
 
@@ -200,13 +200,6 @@ terravia/
 - [ ] **Mobile App** — React Native client for field surveys with camera integration
 
 ---
-
-## 👨‍💻 Authors
-
-| Student ID | Role |
-|------------|------|
-| **BT23ECE001** | ML Model, Training Pipeline, Dataset Curation |
-| **BT23ECE003** | Frontend Development, Backend Deployment, UI/UX |
 
 *Machine Learning Course Project — ECE Department*
 
